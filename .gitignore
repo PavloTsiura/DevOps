@@ -1,0 +1,4 @@
+$GIT_DIR/info/exclud
+.vagrant/
+*.lnk
+*.log
